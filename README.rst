@@ -1,5 +1,5 @@
 app features:
-    primary correspond to the requirements for cybersecurity specilization capstone on coursera by maryland university
+    This app correspond to the requirements for cybersecurity specilization capstone on coursera by maryland university
 
     - user registration pages and login with password reset functionality using text based security questions 
     - login in using either username or email
